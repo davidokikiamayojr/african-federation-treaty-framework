@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17468378.svg)]([https://doi.org/10.5281/zenodo.XXXXXXX](https://zenodo.org/records/17468378)
+   
 # The African Federation Treaty Framework (AFTF)
 
 **Press Release - FOR IMMEDIATE RELEASE**  
@@ -36,6 +38,10 @@ The AFTF integrates:
 ## Citation
 ```
 Amayo Jr., D. O. (2025). Africa's Sovereign Development Trust® to Unveil The "African Federation Treaty" Framework At The Sandton Symposium 2025. The Ndege Group. DOI: [Add your Zenodo DOI here]
+## Citation
+```
+   Amayo Jr., D. O. (2025). Africa's Sovereign Development Trust® to Unveil The "African Federation Treaty" Framework At The Sandton Symposium 2025. The Ndege Group. https://doi.org/10.5281/zenodo.17468378
+```
 ```
 
 ## About ASDT
