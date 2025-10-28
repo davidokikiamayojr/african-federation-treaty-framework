@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17468378.svg)]([https://doi.org/10.5281/zenodo.XXXXXXX](https://zenodo.org/records/17468378)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17468378.svg)]([(https://zenodo.org/records/17468378](https://zenodo.org/records/17468378))
    
 # The African Federation Treaty Framework (AFTF)
 
