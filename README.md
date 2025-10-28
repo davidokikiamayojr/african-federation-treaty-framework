@@ -51,31 +51,6 @@ press@ndege.co.ke | hello@thendegegroup.com
 ## License
 
 This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-
 ---
 
-© 2025 The Ndege Group | Africa's Sovereign Development Trust®
-```
-
-**Step 14: Create a Release (For Permanent Archival)**
-1. Click "Releases" (right sidebar) → "Create a new release"
-2. **Tag version**: `v1.0.0`
-3. **Release title**: `AFTF Initial Release - October 2025`
-4. **Description**:
-```
-First public release of the African Federation Treaty Framework, announcing its formal unveiling at the Sandton Symposium 2025.
-
-This release includes the complete press release detailing the six systemic paradoxes and their resolutions through integrated institutional architecture.
-```
-5. Attach your PDF file
-6. Click "Publish release"
-
----
-
-### **PART D: LINKING EVERYTHING TOGETHER**
-
-**Step 15: Update Your Zenodo Record**
-1. Go back to your new Zenodo upload
-2. Edit the description to add:
-```
-GitHub Repository: https://github.com/[your-username]/african-federation-treaty-framework
+© 2025 The Ndege Group | Africa's Sovereign Development
